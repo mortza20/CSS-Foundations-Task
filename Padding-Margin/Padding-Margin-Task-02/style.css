@@ -19,6 +19,7 @@ p {
 .card {
   width: 400px;
   background: green;
+  padding: 8px;
   /* Change me */
 }
 
@@ -26,18 +27,24 @@ p {
   background: white;
   text-align: center;
   font-size: 16px;
+  margin: 0px 0px 8px 0px;
+  padding: 0px;
+
   /* Change me */
 }
 
 .content {
   background: white;
   font-style: italic;
+  margin: 0px 0px 8px 0px;
+  padding: 16px 8px;
   /* Change me */
 }
 
 .button-container {
   background: white;
   text-align: center;
+  padding: 8px;
   /* Change me */
 }
 
@@ -47,5 +54,7 @@ button {
   width: 80%;
   background-color: rgb(204, 237, 204);
   display: block;
+  padding: 8px 24px;
+  margin: auto;
   /* Change me */
 }
