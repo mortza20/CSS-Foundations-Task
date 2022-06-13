@@ -1,4 +1,5 @@
 body {
+  margin: 0px 10px 0px 10px;
   /* Change me */
 }
 
@@ -11,7 +12,7 @@ h1 {
 
 img.header-img {
   display: block;
-  /* Change me */
+  margin: auto;
 }
 
 p {
@@ -24,7 +25,7 @@ li {
   font-family: "Times New Roman", Times, serif;
 }
 
-img {
+.sub-img {
   border-radius: 10px;
   /* Change me */
 }
@@ -35,5 +36,7 @@ button {
   color: beige;
   font-size: 20px;
   width: 150px;
+  padding: 10px;
+  margin: 10px 20px;
   /* Change me */
 }
