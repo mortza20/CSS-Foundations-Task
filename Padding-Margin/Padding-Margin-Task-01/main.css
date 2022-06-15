@@ -1,0 +1,60 @@
+h1 {
+  font-size: 45px;
+  color: green;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+p {
+  font-size: 24px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.card-wrapper {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 400px;
+  background: green;
+  padding: 8px;
+  /* Change me */
+}
+
+.title {
+  background: white;
+  text-align: center;
+  font-size: 16px;
+  margin: 0px 0px 8px 0px;
+  padding: 0px;
+
+  /* Change me */
+}
+
+.content {
+  background: white;
+  font-style: italic;
+  margin: 0px 0px 8px 0px;
+  padding: 16px 8px;
+  /* Change me */
+}
+
+.button-container {
+  background: white;
+  text-align: center;
+  padding: 8px;
+  /* Change me */
+}
+
+button {
+  background: white;
+  border: 1px solid #eee;
+  width: 80%;
+  background-color: rgb(204, 237, 204);
+  display: block;
+  padding: 8px 24px;
+  margin: auto;
+  /* Change me */
+}
